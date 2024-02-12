@@ -1,4 +1,5 @@
 # Draft Notes On Implimenting The TCM
+Now that the Morpheus community has proven the Techno Capital Machine model and the network is in the boot strapping phase its worth exploring how to extend the TCM to other projects building on Morpheus to leverage the same building blocks of fair launch, yield contribution, and on chain tracking of rewards.
 
 - 1. Leveraging the MOR tokens as the practical means of implimenting the Techno Capital Machine model.
 
