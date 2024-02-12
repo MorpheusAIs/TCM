@@ -20,3 +20,6 @@ Now that the Morpheus community has proven the Techno Capital Machine model and 
 - 9. Capital Providers gain another utility for their MOR toekns. Namely supporting more open source projects being developed on Morpheus.
 
 - 10. MOR token holders get to keep their original MOR tokens and the yield goes to the open source project they want to support.
+
+## Conclusion:
+This type of framework can be fully implimented after the Capital, Code, and Compute asepcts are fully deployed as part of phase 3 of the Community Builder deployment. By offering the TCM to a broad set of developers the Morpheus community can extend the incentives it has proven in order to reward smart agent devs building on Morpheus. Devs will be able to gain support seamlessly and deploy their code having done nothing more then copy and pasted the TCM Dashboard interface and used the Morpheus Smart Contracts (well audited and secure) and tapped into its passionate community. This approach removes so much friction and takes many risks off the table for everyone involved.
